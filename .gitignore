@@ -47,5 +47,5 @@ qtcreator-*
 # Emacs
 .#*
 
-# Colcon custom files
-COLCON_IGNORE
+# Catkin custom files
+CATKIN_IGNORE
